@@ -11,10 +11,6 @@ To use the frontend application, follow the instructions below:
 3. Install the necessary dependencies using the package manager of your choice (e.g., npm or yarn).
 4. npm install or yarn install
 
-## Features
-
-### Transactions Table
-
 ## Select Month Dropdown
 1. Displays January to December months as options.
 2. Defaults to March month.
@@ -34,5 +30,3 @@ To use the frontend application, follow the instructions below:
 
 Enjoy using the product transaction management system!
 
-## Deployment
-The frontend application is deployed and can be accessed at [https://vijays-roxiler.onrender.com/](https://vijays-roxiler.onrender.com/).
